@@ -1,0 +1,4 @@
+sistema_ge_database_path = jdbc:postgresql:
+sistema_ge_database_port = 5432
+sistema_ge_database_ip = 127.0.0.1
+sistema_ge_database_name = loja
